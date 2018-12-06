@@ -1,7 +1,7 @@
 {
     "name": "Mainnet",
     "servers": {
-        "nodeUrl": "https://nodes.earthsnodes.com",
+        "nodeUrl": "https://nodes.earthsnodes.earths.ga",
         "dataUrl": "https://api.earths.ga",
         "spamUrl": "https://github.com/earthspay/earths-community/master/Scam%20tokens%20according%20to%20the%20opinion%20of%20Earths%20Community.csv",
         "matcherUrl": "https://matcher.earths.ga"
